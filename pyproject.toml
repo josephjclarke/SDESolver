@@ -1,7 +1,7 @@
 [project]
-name = "sdesolver"
+name = "SDESolver"
 version = "0.1.0"
-description = "Add your description here"
+description = "A simple python SDE solver library"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
